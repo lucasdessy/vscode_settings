@@ -1,0 +1,10 @@
+{
+    "customizeUI.titleBar": "inline",
+    "customizeUI.activityBar": "bottom",
+    "customizeUI.statusBarPosition": "under-panel",
+    "update.mode": "manual",
+    "window.titleBarStyle": "native",
+    "workbench.colorTheme": "Default Dark+",
+    "vscode_vibrancy.theme": "Default Dark",
+    "workbench.sideBar.location": "right"
+}

@@ -1,0 +1,10 @@
+disabled: []
+enabled:
+  - id: illixion.vscode-vibrancy-continued
+    uuid: da69820f-32f2-49c6-915b-aa8e49455529
+  - id: iocave.customize-ui
+    uuid: ac44dd75-bdb7-433b-9d86-23f9f070c07a
+  - id: iocave.monkey-patch
+    uuid: 736c2316-7f4f-4b6a-8e5c-70527d82cf51
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
