@@ -1,10 +1,80 @@
 {
+    // Aparencia
     "customizeUI.titleBar": "inline",
     "customizeUI.activityBar": "bottom",
     "customizeUI.statusBarPosition": "under-panel",
-    "update.mode": "manual",
+    "workbench.sideBar.location": "right",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "explorer.compactFolders": false,
+    "workbench.tree.indent": 15,
     "window.titleBarStyle": "native",
     "workbench.colorTheme": "Default Dark+",
     "vscode_vibrancy.theme": "Default Dark",
-    "workbench.sideBar.location": "right"
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.inlineSuggest.enabled": true,
+    "workbench.startupEditor": "none",
+    // Ações do editor
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "security.workspace.trust.enabled": false,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true,
+        "source.fixAll": true,
+        "source.fixAll.eslint": true
+    },
+    "debug.openDebug": "openOnDebugBreak",
+    "files.eol": "\n",
+    "editor.tabSize": 2,
+    //ESLint
+    "eslint.format.enable": true,
+    // Typescript
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    // Dart e Flutter
+    "dart.runPubGetOnPubspecChanges": "prompt",
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "[dart]": {
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    // Git
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+    "git.enableCommitSigning": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    // Nasc Touchbar
+    "nasc-touchbar.showCommands": false,
+    "nasc-touchbar.togglePanel": true,
+    "nasc-touchbar.addCursorBelow": false,
+    "nasc-touchbar.goToDefinition": false,
+    "nasc-touchbar.peekDefinition": true,
+    "nasc-touchbar.commentLine": true,
+    "nasc-touchbar.jumpToBracket": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.minimap.enabled": false,
+    // Fim :) 
 }
