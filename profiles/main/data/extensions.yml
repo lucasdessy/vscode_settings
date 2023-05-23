@@ -14,6 +14,8 @@ enabled:
     uuid: ce071f60-714c-4351-854a-2a1d33f1e357
   - id: FelixAngelov.bloc
     uuid: 3cd36144-91f2-487a-a3f0-b13701284c38
+  - id: foxundermoon.shell-format
+    uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
   - id: gaetschwartz.build-runner
     uuid: 1de4c944-371e-43e4-8021-ad5fd48b1d55
   - id: GitHub.copilot
