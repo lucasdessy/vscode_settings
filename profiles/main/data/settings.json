@@ -14,8 +14,8 @@
     "explorer.compactFolders": false,
     "workbench.tree.indent": 15,
     "window.titleBarStyle": "native",
-    "workbench.colorTheme": "Default Dark+",
-    "vscode_vibrancy.theme": "Default Dark",
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "vscode_vibrancy.theme": "Tokyo Night Storm",
     "terminal.integrated.gpuAcceleration": "off",
     "editor.inlineSuggest.enabled": true,
     "workbench.startupEditor": "none",
@@ -38,11 +38,12 @@
     "[typescript]": {
         "editor.defaultFormatter": "dbaeumer.vscode-eslint"
     },
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-    },
-    "typescript.tsserver.experimental.enableProjectDiagnostics": true,
-    "typescript.updateImportsOnFileMove.enabled": "always",
+    // "deno.enable": true,
+    // "[typescriptreact]": {
+    //     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    // },
+    // "typescript.tsserver.experimental.enableProjectDiagnostics": true,
+    // "typescript.updateImportsOnFileMove.enabled": "always",
     // Dart e Flutter
     "dart.runPubGetOnPubspecChanges": "prompt",
     "dart.showInspectorNotificationsForWidgetErrors": false,
